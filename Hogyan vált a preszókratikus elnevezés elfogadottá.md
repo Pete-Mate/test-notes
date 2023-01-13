@@ -1,0 +1,3 @@
+1788-ban J. A. Eberhard egyik fejezetét "Preszókratikus filozófia" (*vorsokratische Philosophie*) nevezte. André Laks szerint két ok játszott szerepett az elfogadás terén: egyfelől Nietzsche újraértékelés a preszókratikusokról, másfelől H. Diels 1903-as munkája a Die Fragmente der Vorsokratiker (A preszókratikusok töredékei - saját fordítás).
+
+A szó megjelenésétől kezdve megosztotta a filozófusokat ([[Mi a baj a preszókratikus elnevezéssel|nem is véletlenül]]). Schleiermachar szerint Szókratész a válaszvonal, Hegel szerint a szofisták. Zeller szerint Szókratész, Nietzsche szerint Platón. 

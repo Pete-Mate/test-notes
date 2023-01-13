@@ -1,0 +1,2 @@
+[[Thalész]] [[Pittacus of Mytilene]] [[Bias of Priene]] [[Szolón]] [[Cleobulus]] [[Periander]] [[Szókratész]] 
+**Pittacus, Periander, Cleobulus, Solon, the lawgiver of Athens, Chilo, Thales, and Bias of Ionia**.

@@ -1,0 +1,15 @@
+A filozófiának rengeteg alapkérdése van:
+- Miért létezik valami, és nem valami más?
+- Mi ennek az oka, mi a célja?
+- Miért szabad ezt, és nem azt tennünk?
+- Honnan tudjuk, kinek van igaza?
+- Mi az élet?
+- Mi az élet értelme?
+- Mi a halálé?
+- Van-e egy másik valóság?
+- Van-e Isten?
+- Van-e Gondviselés?
+- Mit jelent az, hogy barátság?
+- Mi az hogy jó és rossz? 
+- Mi vagyok én?
+- Mi az öntudat?

@@ -1,0 +1,1 @@
+> Is your mind something different from your brain, though connected to it, or *is* it your brain? Are your thoughts, feelings, perceptions, sensations, and wishes things that happen in *addition* to all the physical processes in your brain, or are they themselves some of those physical processes?

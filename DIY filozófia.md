@@ -1,0 +1,3 @@
+A DIY filozófia az a megközelítés, amikor arra kapunk ösztönzést, hogy a filozófiát azáltal ismerjük meg, hogy mi magunk is műveljük.
+
+Ezt a megközelítést több modern író is vallja: [[Nagel, Thomas. 1987. What Does It All Mean|Nagel]], [[Blackburn, Simon. 1999. Think - A compelling introduction to philosophy. Oxford - Oxford University Press.|Blackburn]], [[Russel, Bertnand. 2008. The Problems of Philosophy.|Russel]] 
