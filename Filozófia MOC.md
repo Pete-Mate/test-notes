@@ -2,7 +2,6 @@
 aliases: [Filozófia bázis]
 tags: [moc, filozófia]
 ---
-Ez az oldal már a zerotoplato.com-ra is felkerülhet, szóval aszerint készítsük.
 [[Forrástár]]
 [[zerotoplato mindmap.canvas]]
 
