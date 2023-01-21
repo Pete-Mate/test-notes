@@ -7,4 +7,4 @@ tags: [moc, filozófia]
 
 Ez a filozófia bázisunk, innen indul ki minden, ami filozófiához kapcsolódik, de [[Mi az a filozófia]]?
 
-[[Filozófiatörténet MOC]]
+[[Filozófiatörténet]]

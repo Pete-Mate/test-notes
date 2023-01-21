@@ -1,0 +1,1 @@
+[[Heller Ágnes. 2016. A filozófia rövid története gólyáknak. Budapest - Múlt és Jövő Kiadó.|Heller Ágnes]] [[Anaximandrosz|Anaximandrosz önmagává átalakuló apeironja]] kapcsán írja "Az igazság helyreáll, hogy megint megbomoljon és így tovább. Körbe, körbe, vagy ahogy Nietzsche kifejezte: az >>örök vissza­térés<< -ig." 

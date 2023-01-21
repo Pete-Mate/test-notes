@@ -11,8 +11,87 @@
             "id": "a70b7c8e475d853a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaximandrosz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "028c13794fd68980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaximenész levegő.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae58703d81efc7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaximenész.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6549b2d55e05891e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A dolgok végül azzá lesznek, amikből lettek..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3413621fb9b471b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thalész.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "68160f6e3d8502b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0246144809501e4",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "228ccdc946b4add2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iskolák, mesterek és tanítványok.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a94f61d9b5647ff",
@@ -125,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,9 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a70b7c8e475d853a",
+  "active": "f0246144809501e4",
   "lastOpenFiles": [
-    "Filozófia MOC.md",
-    "Programozás MOC.md"
+    "Anaximenész.md",
+    "Anaximenész levegő.md",
+    "Anaximandrosz.md",
+    "Anaximenész datálása.md",
+    "iskolák, mesterek és tanítványok.md",
+    "Filozófiatörténet.md",
+    "Anaximandrosz kozmológiája.md",
+    "Anaximandrosz találmányai.md",
+    "A dolgok végül azzá lesznek, amikből lettek..md",
+    "Thalész.md"
   ]
 }

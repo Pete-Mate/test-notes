@@ -1,2 +1,2 @@
 #filozófia 
-A nyugati filozófia a [[preszókratikus|preszókratikusokkal]] kezdődik.
+A nyugati filozófia a [[preszókratikusok|preszókratikusokkal]] kezdődik.

@@ -1,0 +1,1 @@
+[[Anaximenész]] életéről és gyakorlati tevékenységéről kevés maradt fent. Diogenész Laertiosz szerint Szardeisz elfoglalásának idején működött és 63. Olümpiasz (Kr.e. 528-525) alatt halt meg. 

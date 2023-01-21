@@ -1,0 +1,1 @@
+A korai filozófusok iskolák szerinti besorolását, azon belül pedig mester-tanítvány kapcsolat szerinti rendezését Theophrasztosz kezdeményezte, majd rendszeresen Szótión vitte végig Kr. e. 200 körül az *Egymásra következések*ben. 

@@ -1,7 +1,4 @@
----
-tags: ['filozófia','filozófus','preszókratikus']
----
-![[Pasted image 20230111125344.png|100]] [[Thalész datálása|i. e. 625 - i. e. 545]] [[Milétosz]]
+[[Thalész datálása|Kr. e. 625 - Kr. e. 545]] [[Milétosz]]
 
 A görög filozófia alapítójának tartják.
 > All things are full of gods (minden dolog tele van istenekkel)
