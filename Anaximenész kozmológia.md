@@ -1,0 +1,1 @@
+[[Anaximenész]] szerint Föld lapos és meglovagolja a levegőt, az égtestek közül az első, ami létrejön a leveőből. A Nap, Hold, és többi csillag (ezek is laposak) forrása a Föld, a csillagok a Földből kipárolgásából (ami megritkul így) tűz keletkkezik, amik a magasba csillagokká állnak ösze.
