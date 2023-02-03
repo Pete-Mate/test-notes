@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ce3c8108995a4977",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b9e0f86f6d4c86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c2cfb0ee8a17fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaximandrosz datálása.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d6d448164ab4f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a77ec6d3631b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4ca01416b08ff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "577bd529fd5b054f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f943363d26c868d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c5c687c0da146f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f38b92bc9d7a095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f1e90d0fde3d392",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anaximandrosz datálása.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b089ebf82f674ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anaximandrosz datálása.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f21bea5a9b44fe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c54fd59dc523b53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anaximandrosz datálása.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92c2cfb0ee8a17fa",
+  "lastOpenFiles": [
+    "A görög hét bölcs.md",
+    "A filozófia központi kérdései.md",
+    "A dolgok végül azzá lesznek, amikből lettek..md"
+  ]
+}
